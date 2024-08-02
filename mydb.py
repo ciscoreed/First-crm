@@ -3,7 +3,7 @@ import MySQLdb
 dataBase = MySQLdb.connect(
     host='localhost',
     user='root',
-    password='Ambixtrous@200'
+    password='password123'
     
 )
 
